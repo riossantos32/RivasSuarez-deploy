@@ -4,7 +4,8 @@ const Encabezado = () => {
 
   return (
     <>
-         <h1>Distribuidora Rivas-Suarez</h1> 
+         <h1>Componente principal sii</h1> 
+         
     </>
   )
 }
